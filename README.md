@@ -1,0 +1,1 @@
+Built a deep learning model from scratch to classify audio files into 10 music genres using MFCC features and a custom neural network (accuracy: 85%). Used GTZAN dataset and deployed audio preprocessing pipeline using Librosa.
